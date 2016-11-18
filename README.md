@@ -1,6 +1,6 @@
 # camera_iot
 
-### Team:
+### Groupe 2 - Team:
 Viguier Christophe,
 Brethes Pierre,
 Pandelé Audric,
@@ -9,7 +9,7 @@ Dulon Jérémy
 # Problèmes rencontrés durant le projet
 
 Au début du projet, nous ne connaissions ni ionic, ni sails.
-De plus, Jérémy a rejoint notre groupe seulement en mi octobre
+De plus, Jérémy a rejoint notre groupe seulement à la mi-octobre
 et a donc eu besoin de temps pour s'adapter à ces technologies.
 
 ### Base de données
@@ -27,4 +27,18 @@ les relations entre les modèles.
 
 Notre socket fonctionne correctement sur la version ordinateur,
 mais une erreur que nous n'arrivons pas à debugger nous empêche
-de le faire fonctionner correctement sous Ionic View
+de le faire fonctionner correctement sous Ionic View.
+
+# Réussites
+
+Bien que néophytes dans ces technologies, et malgré ces problèmes rencontrés,
+nous avons une version fonctionnelle qui comprend l'API faite avec Sails,
+le front fait avec Ionic, et le code pour faire fonctionner l'arduino.
+
+Nous pouvons communiquer simultanément avec plusieurs comptes liés à la même caméra,
+et ainsi agir sur l'arduino.
+
+# Liens pour accéder aux différentes parties de l'application
+
+#### Front: https://github.com/AudricPandele/camera_iot_front
+#### Arduino: https://github.com/AudricPandele/node_arduino
